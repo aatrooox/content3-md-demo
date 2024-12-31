@@ -2,7 +2,7 @@
 title: issue2
 date: 2024-11-08
 lastmod: 2024-11-08
-tags: [博客, issue]
+tags: [Nuxt, issue]
 versions: ["@nuxt/content@2.13.4"]
 ---
 
